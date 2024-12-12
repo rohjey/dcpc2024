@@ -1,5 +1,25 @@
 ---
-student_name: [Replace with frist_name and last_name]
-topic: [replace with topic]
+student_name: [Rohana Jeyaraj]
+topic: [Digital Commons & Governance]
 ---
-[Your content goes here]
+## Digital Commons and Governance
+- In her work, Elinor Ostrom critiques the ‘Tragedy of the Commons’, saying a ‘third way’, an in-between private and public property is possible, if a robust **governance mechanism** for a commons can be imagined. Towards this, she lays down eight overarching design principles that touch upon aspects like defining clear boundaries, defining fair use, creating inclusive rule-making processes, conflict-resolution mechanisms, etc.
+- A digital common good is a digital good that is **non-rival in consumption, non-exclusive in access, and has a shared governance model**. In principle, for a digital commons, its governance mechanisms ought to conserve the ‘four freedoms’ as coined by Richard Stallman - the freedom to run, copy, distribute, study, change and improve the software. However, defining boundaries of a community can be hard, since a digital common is non-excludable. This openness blurs the lines between producers and users, which makes for an inclusive, but also complex community dynamic.
+- Maintenance is a challenge. The openness of its governance models, and its reliance on voluntary participation can result in compromises to overall quality. A dynamic model of governance that responds to the evolving environments that the commons interacts with are necessary to counter data vandalism, security threats, declining participation etc.
+## The Linux Kernel
+- The Linux Kernel is one example of a successful digital common that has made the most of the peer governance model, relying on voluntary contributions and collective decision-making. The model is characterized by **frequent releases, delegation and high modularity** that allows for anyone to work on any part of the kernel, without it affecting other parts. However, within this community-driven model, there does exist an implicit hierarchy. Above the community layer, sits a group of hackers, or ‘trusted lieutenants’, each of whom is responsible for a part of the kernel. At the top, sits Linus Torvald, a self-proclaimed ‘benevolent dictator’ who has the final say over which contributions the kernel accepts and rejects.
+## Evolution of Open Source and Digital Public Infrastructure
+- With the increasing popularity and demand for digital common goods, alternative models came into being. **Open source software** is software whose source code is open and can be modified and shared. It is protected by open source licenses, and focuses more on the **practical aspects of collaboration**. A lot of modern (even proprietary) digital infrastructure is built on integral open source chunks of code. This is telling of the **fast-growing market interest in digital commons**. Governments have realized the **power of open data policies, and open API’s for innovation in digital public infrastructure**. India Stack is a set of open APIs and digital public goods that have unlocked the economic potential of identity, data and have transformed the payments and public health landscape in India. 
+## Digital Commons, the Market and Governments
+- Today, governance models that support the tripartite environments, involving interactions between markets, governments and commons communities are necessary. This is where a **boundary organization** that supports, but not directly controls the operations of a digital commons becomes a desirable solution - as in the case of OpenStreetMap Foundation, and even the Linux Foundation. Boundary organizations act as intermediaries - **preserving the independence of digital commons, encouraging maintenance efforts, and ensuring accountability.** 
+- It is important to note however that no governance model is perfect, and the more dynamic, responsive to the environment and regularly revised the model, the better. From a policy perspective, for the commons, it is important to support boundary organizations, incentivize contribution to digital commons, and work towards developing standardized frameworks. On a broader level, greater access to digital services can be created through digital public infrastructure, and governing it with the logic of the commons.
+## References
+1. Elinor Ostrom’s work on Governing The Commons: An Appreciation. (2021, April 20). LSE Review of Books. https://blogs.lse.ac.uk/lsereviewofbooks/2012/06/17/elinor-ostroms-work-on-governing-the-commons-an-appreciation/ 
+2. Sethi, J. C. C. &. R. (n.d.). Elinor Ostrom : par-delà la tragédie des communs. La Vie Des Idées. https://laviedesidees.fr/Elinor-Ostrom-par-dela-la-tragedie-des-communs
+3. P2P Foundation. (n.d.). Linux - Governance. Retrieved December 11, 2024, from https://wiki.p2pfoundation.net/Linux_-_Governance#The_co-dependence_of_Linus_Torvalds
+4. De Rosnay, M. D., & Stalder, F. (2020, December 18). Digital commons. Internet Policy Review. https://policyreview.info/concepts/digital-commons
+5. The Cathedral and the Bazaar. (n.d.). http://www.catb.org/%7Eesr/writings/cathedral-bazaar/cathedral-bazaar/index.html
+6. Unknown. (2021). Digital Commons as Alternative Systems of Value and Enablers of Digital Sovereignty. In Unknown (pp. 1–5) [Unknown]. https://www.sciencespo.fr/public/chaire-numerique/wp-content/uploads/2023/06/DIGITAL-COMMONS-policy-brief-Louise-Frion.docx-2.pdf 
+7. G20. (2022). Governing Digital Public Infrastructure as a Commons. In G20 New Delhi Leaders’ Declaration. https://t20brasil.org/media/documentos/arquivos/TF05_ST_02_Governing_Digital_P66ccd2697b15b.pdf
+
+
